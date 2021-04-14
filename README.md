@@ -35,7 +35,8 @@
          }
          footer {
              clear: both;
-             background-color: yellow;
+             background-color: black;
+             color: white;
          }
          </style>
      </head>
