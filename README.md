@@ -43,7 +43,7 @@
      <body>
          <nav>
              <ul>
-                 <li><a href="https://jomiller0389.github.io/josh.github.io/">Home</a></li>
+                 <li><a href="https://jomiller0389.github.io/home.github.io/">Home</a></li>
                  <li><a href="https://jomiller0389.github.io/alabama.github.io/">Alabama</a></li>
                  <li><a href="https://jomiller0389.github.io/hiking.github.io/">Hiking</a></li>
              </ul>
