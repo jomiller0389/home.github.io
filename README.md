@@ -1,6 +1,10 @@
 <html>
      <head>
          <style>
+         a{
+            text-decoration: none; 
+            color: black;
+         }
          nav{
              position: fixed;
              top: 0px;
@@ -38,7 +42,7 @@
      <body>
          <nav>
              <ul>
-                 <li>Home</li>
+                 <li><a href="http://www.w3schools.com/tags/tag_a.asp">Home</a></li>
                  <li>Hobbies</li>
                  <li>Teams</li>
              </ul>
