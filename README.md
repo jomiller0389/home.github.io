@@ -49,10 +49,10 @@
              </ul>
          </nav>
          <section1>
-           
+             Sophomore at University of Arkansas - Pulaski Technical College
          </section1>
          <section2>
-            
+             Majoring in Computer Science
          </section2>
          <footer>
              Copyright Area, Contact Us.
