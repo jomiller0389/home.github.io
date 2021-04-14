@@ -42,7 +42,7 @@
      <body>
          <nav>
              <ul>
-                 <li><a href="http://www.w3schools.com/tags/tag_a.asp">Home</a></li>
+                 <li><a href="https://jomiller0389.github.io/jomiller.github.io/">Home</a></li>
                  <li>Hobbies</li>
                  <li>Teams</li>
              </ul>
