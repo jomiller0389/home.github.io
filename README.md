@@ -6,14 +6,14 @@
              top: 0px;
              left: 0px;
              width: 100%;
-             height: 30px;
-             background-color: lightpink;
+             height: 35px;
+             background-color: palevioletred;
          }
          nav li{
              display: inline;
          }
-         nav li: hover{
-             background-color: black;
+         nav li:hover{
+             background-color: plum;
          }
          section1 {
              float: left;
