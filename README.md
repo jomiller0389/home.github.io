@@ -49,12 +49,14 @@
              </ul>
          </nav>
          <section1>
-             Sophomore at University of Arkansas - Pulaski Technical College
-             Majoring in Computer Science
+                 <li>Sophomore at University of Arkansas - Pulaski Technical College</li>
+                 <li>Majoring in Computer Science</li>
          </section1>
          <section2>
-             Favorite Sports Team: Alabama Crimson Tide (Football)
-                     Hobby: Hiking
+             <ul>
+                  <li>Favorite Sports Team: Alabama Crimson Tide (Football)</li>
+                  <li>Hobby: Hiking</li>
+             <ul>
          </section2>
          <footer>
              Copyright Area, Contact Us.
