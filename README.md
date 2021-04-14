@@ -1,6 +1,13 @@
 <html>
      <head>
          <style>
+         header {
+             background-color: #bbbbbb;
+             top: 10px;
+             left: 0px;
+             width: 100%;
+             height: 20px;
+         }
          a{
             text-decoration: none; 
             color: black;
@@ -48,6 +55,9 @@
                  <li><a href="https://jomiller0389.github.io/hiking.github.io/">Hiking</a></li>
              </ul>
          </nav>
+         <header>
+              About: Joshua Miller
+         </header>
          <section1>
                  <li>Sophomore at University of Arkansas - Pulaski Technical College</li>
                  <li>Majoring in Computer Science</li>
