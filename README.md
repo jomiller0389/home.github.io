@@ -44,7 +44,7 @@
              <ul>
                  <li><a href="https://jomiller0389.github.io/jomiller.github.io/">Home</a></li>
                  <li><a href="https://jomiller0389.github.io/crimsontide.github.io/">Crimson Tide</a></li>
-                 <li><a href="https://jomiller0389.github.io/jomiller.github.io/">Hiking</a></li>
+                 <li><a href="https://jomiller0389.github.io/hiking.github.io/">Hiking</a></li>
              </ul>
          </nav>
          <section1>
