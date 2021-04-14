@@ -56,7 +56,7 @@
              <ul>
                   <li>Favorite Sports Team: Alabama Crimson Tide (Football)</li>
                   <li>Hobby: Hiking</li>
-             <ul>
+             </ul>
          </section2>
          <footer>
              Copyright Area, Contact Us.
