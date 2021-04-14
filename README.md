@@ -43,8 +43,8 @@
          <nav>
              <ul>
                  <li><a href="https://jomiller0389.github.io/jomiller.github.io/">Home</a></li>
-                 <li>Hobbies</li>
-                 <li>Teams</li>
+                 <li><a href="https://jomiller0389.github.io/jomiller.github.io/">Crimson Tide</a></li>
+                 <li><a href="https://jomiller0389.github.io/jomiller.github.io/">Hiking</a></li>
              </ul>
          </nav>
          <section1>
